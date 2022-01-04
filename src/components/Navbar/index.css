@@ -1,0 +1,14 @@
+
+.container {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.register {
+    color:white;
+    background-color: black;
+    border: 1px solid;
+    width: 100px;
+    border-radius: 5px;
+}
